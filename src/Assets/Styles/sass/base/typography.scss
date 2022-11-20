@@ -6,6 +6,11 @@ body {
   padding: 0;
   box-sizing: border-box;
   line-height: 1.6;
+  @media screen and (min-width: 1800px) {
+    font-size: 75%;
+    width: 60%;
+    margin: auto;
+  }
 }
 a {
   text-decoration: none;
