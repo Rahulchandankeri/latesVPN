@@ -16,7 +16,7 @@ function Featured() {
               <span style={{ color: "inherit", fontWeight: 500 }}>LaslesVPN</span> discover interesting features from us.
             </p>
 
-            <div style={{ display: "flex", justifyContent: "left", width: "70%" }}>
+            <div style={{ display: "flex", justifyContent: "left", width: "100%" }}>
               <button className="cta-btn2 ">Get started</button>
             </div>
           </div>
